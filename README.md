@@ -18,3 +18,9 @@ How to run the code:
 7. To do the quiz again click on "Do another test"
 
 Implemented features:
+1. A window created with Tkinter with buttons to make the program more interactive
+2. The cvs file with all the possible responses from the users and an answer to all of them
+3. The results file to save all the answers the user has gotten
+4. Calculations of what bin the user throws more waste into using the results file
+5. Simple design to the window and the buttons
+
