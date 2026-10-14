@@ -1,0 +1,7 @@
+id,pregunta,si,no
+1,Is it food waste / peels / leaves?,R:GREEN bin (organic),2
+2,Is it paper or cardboard?,3,4
+3,Is it clean and dry (no grease or food)?,R:BLUE bin (paper and cardboard),R:GRAY bin (general trash: dirty paper cannot be recycled)
+4,Is it plastic / glass / metal / a can?,5,6
+5,Is it empty and rinsed?,R:YELLOW bin (plastic glass and metal),R:Rinse it first and then put it in the YELLOW bin
+6,Is it a battery / light bulb / electronic device?,R:Special drop-off point (NOT in the regular bin),R:GRAY bin (general trash)
