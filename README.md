@@ -24,3 +24,11 @@ Implemented features:
 4. Calculations of what bin the user throws more waste into using the results file
 5. Simple design to the window and the buttons
 
+
+How these features address the problem:
+A lot of people struggle to know where to throw their wastes. EcoBin guides the users with a simple quiz, its simple and interactive format makes it easier to the user to understand and be able to recycle. At the end it gives you which percentage of times you throw in that bin, to be able to identify by yourself easier and remember the next time where to throw it without using the quiz.
+
+Video:
+
+
+
