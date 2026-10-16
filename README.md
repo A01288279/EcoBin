@@ -29,6 +29,7 @@ How these features address the problem:
 A lot of people struggle to know where to throw their wastes. EcoBin guides the users with a simple quiz, its simple and interactive format makes it easier to the user to understand and be able to recycle. At the end it gives you which percentage of times you throw in that bin, to be able to identify by yourself easier and remember the next time where to throw it without using the quiz.
 
 Video:
+https://drive.google.com/file/d/1rPia6tx2nnIgItaMQdx3smjYVqEr2k8y/view?usp=sharing
 
 
 
