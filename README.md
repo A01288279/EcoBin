@@ -6,10 +6,10 @@ Requisites:
 Before running the programe you have to
 1. Have python in your computer
 2. Have the pandas library installed
-3. Download in the same folder preguntas_en.cvs and proyect phase 1.py
+3. Download in the same folder preguntas_en.csv and proyect phase 1.py
 
 How to run the code:
-1. Download proyect phase 1.py and preguntas_en.cvs in the same folder
+1. Download proyect phase 1.py and preguntas_en.csv in the same folder
 2. Open on python the proyect phase 1.py
 3. Install pandas by putting in the terminal pip install pandas
 4. Run the program and a window will open
